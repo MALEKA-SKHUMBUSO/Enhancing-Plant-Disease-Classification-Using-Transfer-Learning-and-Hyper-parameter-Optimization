@@ -46,6 +46,7 @@ Plant-Disease-Classification/
 │
 └── README.md
 
+
 Explanation of Directories:
 data/: Contains the datasets required for training, validation, and testing the models.
 
