@@ -45,6 +45,7 @@ Plant-Disease-Classification/
 │   └── evaluate_model.py
 │
 └── README.md
+
 Explanation of Directories:
 data/: Contains the datasets required for training, validation, and testing the models.
 
